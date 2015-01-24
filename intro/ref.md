@@ -1,4 +1,4 @@
- #1.2.R1
+#1.2.R1
 
 ###Which of the following are supervised learning problems? 
 
@@ -9,6 +9,8 @@
 - Predict whether a website user will click on an ad 
 
 	- Explanation:  Problems with clearly defined "predictors" and "responses" are supervised.
+
+#1.2.R2
 
 ###True or False: The goal of any supervised learning study is to be able to predict the response very accurately.
 
