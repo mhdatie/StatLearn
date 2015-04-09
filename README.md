@@ -10,3 +10,5 @@ Enrollment will remain open until **March 21**. If you are a fan of the course, 
 - [Course Site](https://statlearning.class.stanford.edu)
 
 All credits go to Stanford University. Please abide by their [Terms of Service](https://class.stanford.edu/tos).
+
+Last Year's Material: [Click Here](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
